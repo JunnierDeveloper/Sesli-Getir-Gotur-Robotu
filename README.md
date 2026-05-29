@@ -12,6 +12,14 @@ Bu proje, ev ortamında otonom görevler icra edebilen, sesli komutları algıla
 
 ---
 
+## 📺 Proje Tanıtım Videosu
+
+Simülasyonun çalışmasını ve sesli komutların nasıl algılandığını aşağıdaki videodan izleyebilirsiniz:
+
+<video src="Getir Götür Robotu.mp4" width="100%" controls></video>
+
+---
+
 ## 🚀 Temel Özellikler
 
 *   📐 **2.5D İzometrik Görselleştirme:** Derinlik algısına sahip, özel gölgelendirmeli ve detaylı çizilmiş mobilyalar (yatak, kanepe, tv, mutfak tezgahı, buzdolabı vb.) içeren modern bir ev haritası.

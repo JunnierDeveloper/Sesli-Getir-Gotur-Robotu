@@ -1,0 +1,18 @@
+# Python bytecode ve cache dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pycharm, VS Code ve Editor ayarları
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini

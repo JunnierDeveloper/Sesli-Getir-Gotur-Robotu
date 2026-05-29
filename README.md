@@ -16,7 +16,7 @@ Bu proje, ev ortamında otonom görevler icra edebilen, sesli komutları algıla
 
 Simülasyonun çalışmasını ve sesli komutların nasıl algılandığını aşağıdaki videodan izleyebilirsiniz:
 
-<video src="Getir Götür Robotu.mp4" width="100%" controls></video>
+<video src="demo.mp4" width="100%" controls></video>
 
 ---
 

@@ -16,9 +16,9 @@ Bu proje, ev ortamında otonom görevler icra edebilen, sesli komutları algıla
 
 Simülasyonun çalışmasını ve sesli komutların nasıl algılandığını aşağıdaki videodan izleyebilirsiniz:
 
-<video src="demo.mp4" width="100%" controls></video>
+https://raw.githubusercontent.com/JunnierDeveloper/Sesli-Getir-Gotur-Robotu/main/demo.mp4
 
-*Eğer yukarıdaki oynatıcı çalışmazsa, videoyu doğrudan **[buraya tıklayarak tarayıcıda izleyebilir veya indirebilirsiniz](./demo.mp4)**.*
+*Eğer yukarıdaki oynatıcı çalışmazsa, videoyu doğrudan **[buraya tıklayarak tarayıcıda izleyebilir veya indirebilirsiniz](https://raw.githubusercontent.com/JunnierDeveloper/Sesli-Getir-Gotur-Robotu/main/demo.mp4)**.*
 
 ---
 

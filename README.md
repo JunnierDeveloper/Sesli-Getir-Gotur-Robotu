@@ -18,6 +18,8 @@ Simülasyonun çalışmasını ve sesli komutların nasıl algılandığını a�
 
 <video src="demo.mp4" width="100%" controls></video>
 
+*Eğer yukarıdaki oynatıcı çalışmazsa, videoyu doğrudan **[buraya tıklayarak tarayıcıda izleyebilir veya indirebilirsiniz](./demo.mp4)**.*
+
 ---
 
 ## 🚀 Temel Özellikler

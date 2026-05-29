@@ -120,37 +120,4 @@ Projenin bilgisayarınızda sorunsuz çalışması için gerekli kütüphaneleri
     *   `Sol Fare Tık + Sürükleme`: Harita üzerinde gezinmeyi sağlar (Pan özelliği).
     *   `R` Tuşu: Kamerayı varsayılan konumuna ve boyutuna sıfırlar.
 
----
 
-## 🔒 Güvenlik Uyarıları ve En İyi Uygulamalar (GitHub Yayını Öncesi)
-
-Projeyi **Public (Açık kaynak)** olarak GitHub'da paylaşmadan önce şu hususlara dikkat edilmelidir:
-
-1.  **Kod İçi Kimlik Bilgileri (Hardcoded Secrets):** Kod dosyaları (`robot_sim.py`, `yedek.py`) taranmış ve içerisinde hiçbir **şifre, API key, veritabanı bağlantı adresi veya kişisel token** tespit edilmemiştir. Güvenle paylaşılabilir.
-2.  **GitHub Kişisel Erişim Tokenı (PAT):** Proje dosyalarınızda bir token bulunmamaktadır ancak platformlarda veya komut satırı geçmişinizde paylaştığınız erişim tokenlarını güvende tutunuz. Eğer daha önce kazara bir token paylaştıysanız, GitHub hesabınızın güvenliği için bu tokenı **Developer Settings > Personal Access Tokens** menüsünden derhal iptal (revoke) etmeniz önerilir.
-3.  **`.gitignore` Kullanımı:** Gereksiz sistem dosyalarının ve Pygame önbelleklerinin repoya girmesini önlemek için proje kök dizinine bir `.gitignore` dosyası eklenmesi şiddetle tavsiye edilir.
-
-### Önerilen `.gitignore` İçeriği
-
-Aşağıdaki satırları `.gitignore` adında bir dosya oluşturarak projenizin ana dizinine kaydedebilirsiniz:
-
-```text
-# Python bytecode ve cache dosyaları
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Pycharm, VS Code ve Editor ayarları
-.idea/
-.vscode/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.swp
-
-# OS generated files
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-```
